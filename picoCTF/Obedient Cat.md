@@ -10,6 +10,6 @@ This file has a flag in plain sight (aka "in-the-clear"). [Download flag](https:
 2. 開啟檔案
 3. 發現flag
 
-![image](https://raw.githubusercontent.com/an-777/CTF/main/image/000001.png)
+![image](https://raw.githubusercontent.com/an-777/CTF/main/image/y80bez.png)
 
 > FLAG : `picoCTF{s4n1ty_v3r1f13d_2aa22101}`
