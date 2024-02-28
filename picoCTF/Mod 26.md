@@ -7,7 +7,8 @@ Cryptography can be easy, do you know what ROT13 is? `cvpbPGS{arkg_gvzr_V'yy_gel
 
 ## Solution
 
-將每一字元的 $ASCII$ 加 13 在模 26
+1. 將每一字元的 $ASCII$ + 13 
+2. mod 26
 
 ### Python
 ```python
