@@ -6,12 +6,12 @@ Find the flag being held on this server to get ahead of the competition http://m
 
 ## Solution
 
-使用 Firefox 更改 `Request Method` 成 `HEAD`,取得 FLAG
-
-![](https://github.com/an-777/CTF/blob/main/image/3h2xte.png?raw=true)
-
-![](https://github.com/an-777/CTF/blob/main/image/z6vygd.png?raw=true)
-
-![](https://github.com/an-777/CTF/blob/main/image/pw9mu8.png?raw=true)
-
+使用 `curl` 請求 `Request Method` `HEAD`
+```cmd
+┌──(kali㉿An777)-[~]
+└─$ curl -I http://mercury.picoctf.net:53554/
+HTTP/1.1 200 OK
+flag: picoCTF{r3j3ct_th3_du4l1ty_2e5ba39f}
+Content-type: text/html; charset=UTF-8
+```
 > flag : `picoCTF{r3j3ct_th3_du4l1ty_2e5ba39f}`
