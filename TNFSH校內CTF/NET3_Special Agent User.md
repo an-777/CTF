@@ -15,7 +15,7 @@ NOTE: We're just looking for up to 3 levels of subversions for the browser versi
 
 發現發送的 HTTP 請求中，除了使用 Wget 外還有一包使用瀏覽器
 
-![image](image/mn9pgo.png)
+![image](../image/mn9pgo.png)
 
 題目的最後一句說要忽略兩位數版本號，因此忽略 mozilla 1.16 與 Safari 537.36，最終發現 Flag: Chrome 36.0.1985
 
