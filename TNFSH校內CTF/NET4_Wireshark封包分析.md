@@ -19,7 +19,7 @@ Archive:  flag.zip
 
 查看傳送檔案的封包，發現 Authorization  標頭很可疑
 
-![image](image/hdqu1c.png)
+![image](../image/hdqu1c.png)
 
 ```sh
 ┌──(kali㉿kali)-[~]

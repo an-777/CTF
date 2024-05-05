@@ -16,6 +16,6 @@ https://morsecode.scphillips.com/translator.html
 
 到 https://morsedecoder.com/ 解碼
 
-![image](./image/ajda4l.png)
+![image](../image/ajda4l.png)
 
 > Flag: `INFOSECFLAGISMORSING`

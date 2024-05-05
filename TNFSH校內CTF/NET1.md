@@ -8,7 +8,7 @@
 
 用 wireshark 分析封包
 
-![image](image\wrax0i.png)
+![image](../image/wrax0i.png)
 
 發現其中一包藏有 FLAG
 
